@@ -1,0 +1,2 @@
+pyguetzli
+azure-functions
